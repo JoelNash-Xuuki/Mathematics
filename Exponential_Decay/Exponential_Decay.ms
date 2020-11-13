@@ -5,5 +5,7 @@ Formula
 - e, the base of the natural logarithms
 
 .EQ
-x = ae -k over t
+x = ae sup -k/t
 .EN
+
+
